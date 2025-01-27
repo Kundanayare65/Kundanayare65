@@ -43,7 +43,7 @@
 ### Stress Management System App
 - **Technologies**: Flutter, Firebase  
 - **Description**: Developed an AI-driven mobile app to assist users in managing stress through sentiment analysis, wellness goal setting, and relaxation tools.  
-[GitHub Link](#)
+
 
 ## 🏆 Achievements
 - **3rd Place** in Social Entrepreneurship Hackathon  
